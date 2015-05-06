@@ -1,5 +1,5 @@
 Django AngularJS
-=============
+================
 
 `AngularJS <https://angularjs.org/>`_ 1.3.15
 
