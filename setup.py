@@ -36,6 +36,10 @@ setup(
         'django_static_angular': [
             'static/static_angular/js/*.js',
             'static/static_angular/js/*.map',
+            'static/static_angular/js/*.json',
+            'static/static_angular/js/*.txt',
+            'static/static_angular/js/*.css',
+            'static/static_angular/js/i18n/*.js',
         ],
     },
 )
