@@ -1,7 +1,7 @@
 Django AngularJS
 ================
 
-`AngularJS <https://angularjs.org/>`_ 1.3.15
+`AngularJS <https://angularjs.org/>`_ v1.3.15
 
 Requirements
 ------------
@@ -13,7 +13,7 @@ Installation
 
 ::
 
-    $ pip install django-static-angular==1.3.15
+    $ pip install django-static-angular==v1.3.15
 
 Setup
 -----

@@ -10,7 +10,7 @@ except IOError:
 
 setup(
     name='django-static-angular',
-    version='1.3.15',
+    version='v1.3.15',
     url="https://github.com/Haos616/django-static-angular",
     description='AngularJS packaged in an handy django app to speed up new applications and deployment.',
     long_description=long_description,
@@ -37,7 +37,6 @@ setup(
             'static/static_angular/js/*.js',
             'static/static_angular/js/*.map',
             'static/static_angular/js/*.json',
-            'static/static_angular/js/*.txt',
             'static/static_angular/js/*.css',
             'static/static_angular/js/i18n/*.js',
         ],

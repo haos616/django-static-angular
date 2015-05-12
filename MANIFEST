@@ -37,7 +37,6 @@ django_static_angular/static/static_angular/js/angular.min.js
 django_static_angular/static/static_angular/js/angular.min.js.map
 django_static_angular/static/static_angular/js/errors.json
 django_static_angular/static/static_angular/js/version.json
-django_static_angular/static/static_angular/js/version.txt
 django_static_angular/static/static_angular/js/i18n/angular-locale_aa-dj.js
 django_static_angular/static/static_angular/js/i18n/angular-locale_aa-er.js
 django_static_angular/static/static_angular/js/i18n/angular-locale_aa-et.js
